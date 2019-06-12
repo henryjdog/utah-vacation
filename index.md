@@ -1,6 +1,7 @@
 ---
-title: Utah
+title: Utah Vacation
 ---
+
 
 # Thursday - Home
 
@@ -13,19 +14,17 @@ title: Utah
 - Morning flight- Indianapolis to Las Vegas (4h10m)
 - Drive from to Las Vegas to Bryce Canyon (4h30m)
 
-
-## Activities {data-background-image="./images/lobster.jpg"}
-- 
+ 
 
 ## Accomodations
-- 
+- Some hotel
 
 # Saturday - Bryce Canyon
 
 ## Activities
 
-## Kayak   {data-background-image="./images/kayaks.png"}
-## Boulder Beach  {data-background-image="./images/boulderbeach.png"}
+## Hiking   {data-background-image="./images/kayaks.png"}
+## More Hiking  {data-background-image="./images/boulderbeach.png"}
 
 ## Accomodations
 - 
